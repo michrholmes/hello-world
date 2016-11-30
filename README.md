@@ -7,6 +7,7 @@ First Repository
 import java.util.Scanner;
 
 public class Me
+
 {
 
 public static void main (String[] args)
