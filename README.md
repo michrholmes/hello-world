@@ -1,7 +1,6 @@
 # hello-world
 First Repository
 
-//***********************************************************************************************
 // Hello World! My name is Michelle. I am a computer science student that is working on honing my 
 // coding skills.
 // Currently I am coding in Java but have some C++ basics as well. 
